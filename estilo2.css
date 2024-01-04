@@ -1,0 +1,19 @@
+body {
+    background-color: #FED8AA;
+}
+h1{
+    text-align: center;
+    color: #DFF6FF;
+}
+h2 {
+    color: #DFF6FF;
+}
+.enviar {
+    border-radius: 5px;
+    background-color: greenyellow   ;
+    color: black;
+}
+.etiqueta {
+    color:#E8535C;
+    background-color: #EE89E4;
+}
