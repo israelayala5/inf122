@@ -1,2 +1,3 @@
 NOMBRE: Israel Ayala Mamani
-MATERIA: INF-122
+gitMATERIA: INF-122
+Color favorito: #00FF00
