@@ -1,2 +1,2 @@
 NOMBRE: Israel Ayala Mamani
-MATERIA: inf-122
+MATERIA: INF-122
